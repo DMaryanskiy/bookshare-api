@@ -15,8 +15,7 @@
 /vendor/
 
 # Dependency directories
-/go.sum
-go.sum
+/go.sum/
 
 # VS Code settings
 /.vscode
