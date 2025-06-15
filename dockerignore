@@ -1,0 +1,6 @@
+.git
+vendor
+**/*.md
+**/*.sql
+migrations/
+docs/

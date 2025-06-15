@@ -1,0 +1,25 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Output of `go run`
+*.out
+
+# Vendor
+/vendor/
+
+# Dependency directories
+/go.sum
+go.sum
+
+# VS Code settings
+/.vscode
+
+# Environment variables
+.env
